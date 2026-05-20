@@ -121,7 +121,7 @@ export default function App() {
               <ParticleCanvas
                 ref={canvasRef}
                 config={config}
-                onExplosionTriggered={handleTriggerExplosion}
+                onExplosionTriggered={() => {}}
                 particleActiveCount={activeCount}
                 setParticleActiveCount={setActiveCount}
               />
