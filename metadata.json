@@ -1,0 +1,6 @@
+{
+  "name": "3D Particle Explosion VFX Studio",
+  "description": "Interactive 3D particle explosion simulator with physics customisation, Hollywood VFX glow, slow motion, and real-time customisable Python code generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
